@@ -1,0 +1,21 @@
+DepartmentKey,DepartmentName,HospitalKey
+1,Cardiology,24
+2,Neurology,16
+3,Oncology,3
+4,Orthopedics,16
+5,Pediatrics,1
+6,General Surgery,43
+7,Gynecology,16
+8,Dermatology,27
+9,ENT,12
+10,Ophthalmology,43
+11,Psychiatry,49
+12,Urology,30
+13,Radiology,41
+14,Pathology,1
+15,Anesthesiology,11
+16,Nephrology,44
+17,Gastroenterology,25
+18,Endocrinology,11
+19,Pulmonology,33
+20,Emergency,45
